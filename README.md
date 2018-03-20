@@ -2,6 +2,8 @@
 
 Jul11Co Web Download Tools - Collections of APIs for downloading data from websites.
 
+[![NPM](https://nodei.co/npm/jul11co-wdt.png)](https://nodei.co/npm/jul11co-wdt/)
+
 ### Installation
 
 From npm
