@@ -1,0 +1,24 @@
+{
+  "name": "jul11co-wdt",
+  "version": "1.1.13",
+  "description": "Jul11Co Web Download Tools",
+  "author": "Jul11Co (jul.eleven.co@gmail.com)",
+  "license": "MIT",
+  "repository": "https://github.com/jul11co/jul11co-wdt",
+  "main": "./index.js",
+  "keywords": [
+    "jul11co",
+    "web",
+    "download",
+    "tools"
+  ],
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "async": "^1.4.2",
+    "cheerio": "~0.19.0",
+    "fs-extra": "^2.1.2",
+    "jsonfile": "^2.2.2",
+    "mkdirp": "^0.5.1",
+    "request": "~2.58.0"
+  }
+}
